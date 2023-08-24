@@ -1,0 +1,10 @@
+<svg id="loupe" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54.392" height="54.604" viewBox="0 0 54.392 54.604">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="path" d="M812.914,126.7l-9.552-9.552a24.962,24.962,0,0,0,3.821-12.948A24.092,24.092,0,1,0,783.2,128.4a23.83,23.83,0,0,0,12.948-3.821l9.552,9.552a1.666,1.666,0,0,0,2.335,0l4.882-4.882a1.932,1.932,0,0,0,0-2.547M783.2,121.391A17.193,17.193,0,1,1,800.391,104.2,17.122,17.122,0,0,1,783.2,121.391" transform="translate(-759 -80)" fill="#0c4210" stroke="#000" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="group" clip-path="url(#clip-path)">
+    <rect id="rectangle" width="75.777" height="75.777" transform="translate(-10.613 -10.613)" fill="#0c4210" stroke="#000" stroke-width="1"/>
+  </g>
+</svg>
